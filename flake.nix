@@ -39,9 +39,6 @@
           homepage = "http://www.htslib.org";
           platforms = platforms.unix;
         };
-        shellHook = ''
-		      echo "Hello"
-	      '';
       };
     };
 }
